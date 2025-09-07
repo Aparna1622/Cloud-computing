@@ -1,4 +1,5 @@
 Cloud computing:
+
 Cloud computing means using the internet (“the cloud”) to access computing resources like servers, storage, databases, 
 software, and networking instead of owning and maintaining physical hardware or software on our own systems.
 
